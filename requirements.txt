@@ -1,4 +1,5 @@
 sentence-transformers
-sickit-learn
+scikit-learn
+numpy
 umap-learn
 matplotlib
