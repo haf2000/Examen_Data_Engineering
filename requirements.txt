@@ -1,0 +1,4 @@
+sentence-transformers
+sickit-learn
+umap-learn
+matplotlib
